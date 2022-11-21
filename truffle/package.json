@@ -1,0 +1,16 @@
+{
+  "name": "authentics-smart-contract",
+  "version": "0.1.0",
+  "description": "Authentics smart contract management.",
+  "main": "truffle-config.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@truffle/hdwallet-provider": "^2.1.1",
+    "dotenv": "^16.0.3"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "MIT"
+}
